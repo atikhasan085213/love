@@ -1,0 +1,16 @@
+body {
+    background-color: #000;    
+    margin: 0;
+    overflow: hidden;
+    background-repeat: no-repeat;
+  }
+  h1{
+    color: #ffff;
+    font-size: 5rem;
+    font-style: italic;
+    position: absolute;
+    top: 40%;
+    transform: translateY(-40%);
+    text-align: center;
+    width: 100%;  
+}
